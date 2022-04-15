@@ -1,10 +1,10 @@
-package com.hartwig.urlshortner;
+package com.hartwig.urlshortener;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UrlShortnerApplicationTests {
+class UrlShortenerApplicationTests {
 
 	@Test
 	void contextLoads() {

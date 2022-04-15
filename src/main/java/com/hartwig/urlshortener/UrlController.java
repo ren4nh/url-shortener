@@ -1,4 +1,4 @@
-package com.hartwig.urlshortner;
+package com.hartwig.urlshortener;
 
 import net.bytebuddy.utility.RandomString;
 import org.springframework.http.HttpStatus;

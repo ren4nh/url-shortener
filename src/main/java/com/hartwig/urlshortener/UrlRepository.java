@@ -1,4 +1,4 @@
-package com.hartwig.urlshortner;
+package com.hartwig.urlshortener;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

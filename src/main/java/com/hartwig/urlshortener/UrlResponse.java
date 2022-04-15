@@ -1,4 +1,4 @@
-package com.hartwig.urlshortner;
+package com.hartwig.urlshortener;
 
 public record UrlResponse(String newUrl) {
 }
